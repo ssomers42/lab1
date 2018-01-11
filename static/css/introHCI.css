@@ -31,5 +31,7 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;
+}
+.project{
      margin-left: 20px;
 }
